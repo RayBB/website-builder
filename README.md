@@ -1,4 +1,6 @@
-# hello-world
+# website-builder
+
+Demo available: https://raybb.github.io/website-builder/
 
 ## Project setup
 ```
@@ -22,3 +24,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Deploy
+
+Run deploy.sh or follow instructions here https://cli.vuejs.org/guide/deployment.html#platform-guides
